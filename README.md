@@ -17,4 +17,4 @@ Nyutexaminerad från **Information och mediateknik** efter 3 års studier. Passi
 - ⚡ Intressen: Webbutveckling, UI/UX, tech
 
 ### 📊 Statistik
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=widman-william&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=widman-william&theme=radical)
