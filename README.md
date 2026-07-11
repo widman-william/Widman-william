@@ -5,7 +5,7 @@ Nyutexaminerad från **Information och mediateknik** efter 3 års studier. Passi
 
 ## Teknisk kompetens
 
-<div align="center">
+<div>
 
 | Frontend | Design | Databas |
 |----------|--------|---------|
@@ -21,4 +21,4 @@ Nyutexaminerad från **Information och mediateknik** efter 3 års studier. Passi
 - ⚡ Intressen: Webbutveckling, UI/UX, tech
 
 ### 📊 Statistik
-![GitHub Streak](https://streak-stats.demolab.com?user=widman-william&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=widman-william&layout=compact&theme=tokyonight)
