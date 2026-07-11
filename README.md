@@ -21,4 +21,7 @@ Nyutexaminerad från **Information och mediateknik** efter 3 års studier. Passi
 - ⚡ Intressen: Webbutveckling, UI/UX, tech
 
 ### 📊 Statistik
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=widman-william&layout=compact&theme=tokyonight)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=widman-william&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widman-william&layout=compact&theme=tokyonight" height="180px"/>
+</div>
